@@ -1,0 +1,128 @@
+body{
+    color: white;
+    font-family: sans-serif;
+    background-color: white;
+}
+
+.page1{
+
+    background-color: #F1AC88;
+}
+
+.main{
+    
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #783937;
+    color: white;
+    padding-left: 20px;
+
+}
+
+.recipes{
+
+    font-weight: 700;
+    text-align: center;
+    list-style: none;
+}
+
+.link .visit{
+
+   text-decoration: none;
+   color: white;
+}
+
+.link{
+
+    background-color: #FC766A;
+    margin: 100px 0 100px 437px;
+    width: 400px;
+    height: 40px;
+    padding-top: 20px;
+}
+
+.page2,
+.page3,
+.page4{
+
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #A7BEAE;
+    color: black;
+}
+
+.title{
+
+    text-align: center;
+    font-weight: bold;
+    background-color: #B85042;
+    width: 700px;
+    margin-left: 320px;
+
+}
+
+.img{
+
+    margin: 20px 0 100px 380px;
+    width: 600px;
+    height: 400px;
+}
+
+.desc{
+
+    margin: -70px 0 40px 520px; ;
+    background-color: #B85042;
+    text-align: center;
+    width: 300px;
+}
+
+.para{
+    
+    margin: -20px 0 0 0;
+    font-size: 22px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ingredients{
+
+    margin: 30px 0 0 520px;
+    background-color: #B85042;
+    text-align: center;
+    width: 300px;
+    
+}
+
+.list{
+    
+    margin: 10px 0 10px 0;
+    text-align: center;
+    list-style: none;
+}
+
+.ing{
+    
+    font-style: italic;
+    margin: 20px 0 10px 535px;
+    width: 200px;
+    font-size: 20px;
+}
+
+.step{
+
+    margin: 30px 0 0 520px;
+    background-color: #B85042;
+    text-align: center;
+    width: 300px;
+
+}
+
+ol li{
+
+    list-style: none;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px 0 0 0;
+    width: auto;
+}
