@@ -17,6 +17,7 @@ body{
     background-color: #783937;
     color: white;
     padding-left: 20px;
+    border-radius: 10px;
 
 }
 
@@ -40,6 +41,7 @@ body{
     width: 400px;
     height: 40px;
     padding-top: 20px;
+    border-radius: 10px;
 }
 
 .page2,
@@ -58,7 +60,7 @@ body{
     background-color: #B85042;
     width: 700px;
     margin-left: 320px;
-
+    border-radius: 10px;
 }
 
 .img{
@@ -74,6 +76,7 @@ body{
     background-color: #B85042;
     text-align: center;
     width: 300px;
+    border-radius: 10px;
 }
 
 .para{
@@ -90,6 +93,7 @@ body{
     background-color: #B85042;
     text-align: center;
     width: 300px;
+    border-radius: 10px;
     
 }
 
@@ -114,6 +118,7 @@ body{
     background-color: #B85042;
     text-align: center;
     width: 300px;
+    border-radius: 10px;
 
 }
 
